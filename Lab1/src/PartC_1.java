@@ -1,4 +1,4 @@
-package Lab1;
+package labs;
 /**
  * Creating a class that would accept a word as input and provide the length of the word
  */
